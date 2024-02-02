@@ -1,2 +1,2 @@
 # OLD-Persian
-Offensive Language Detection for Persian Language
+**O**ffensive **L**anguage **D**etection for Persian Language
